@@ -18,7 +18,7 @@ npm --version
 ```
     
 
-## Running the project
+## Run the project
 
 To run this project run the following command
 
